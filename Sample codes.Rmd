@@ -1,0 +1,7 @@
+---
+title: "Sample codes"
+author: "Sichao Wang"
+date: "1/2/2020"
+output: html_document
+---
+
